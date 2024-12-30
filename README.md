@@ -1,5 +1,4 @@
 # Simple-Flutter-Projects---University-Training-with-Eng-eissa_aljumaey
-# Simple Flutter Projects - University Training
 
 **Description:**
 
